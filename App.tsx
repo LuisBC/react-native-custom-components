@@ -14,7 +14,6 @@ const styles = StyleSheet.create({
 });
 
 const App = () => {
-  console.log('HOLA LUIS')
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Hello</Text>
